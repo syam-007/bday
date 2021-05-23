@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.container{
+    margin: 0px;
+    width: 1300px;
+    height: 600px;
+    background-color:#3edbf0;
+}
+h1{
+    margin: 0;
+    font-family:  'Sacramento', cursive;
+    font-size: 50px;
+    padding-top: 40px;
+    
+}
+.sec{
+    font-family:  'Pattaya', sans-serif;;
+    font-size: 30px;
+}
+.love{
+    position: absolute;
+    top:50px;
+    width: 2px;
+    height: 3px;
+}
+.love2{
+    position: absolute;
+    top:50px;
+    
+}
+.para{
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+}
+.para2{
+    font-size: 30px;
+}
